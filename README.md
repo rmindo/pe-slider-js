@@ -1,2 +1,4 @@
-slider
+Slider
 ======
+
+Beta
